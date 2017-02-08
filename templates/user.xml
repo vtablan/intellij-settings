@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="impl" value="throw new UnsupportedOperationException(&quot;Not implemented&quot;);" description="Implementation for a new method" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
