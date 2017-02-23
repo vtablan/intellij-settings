@@ -1,34 +1,24 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5.2 (C:\Users\v.tablan\apps\Anaconda3\python.exe) interpreter library">
+    <library name="scala-sdk-2.11.7" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.7.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar" />
+        </compiler-classpath>
+      </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/apps/Anaconda3/DLLs" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib" />
-        <root url="file://$USER_HOME$/apps/Anaconda3" />
-        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/Sphinx-1.5.1-py3.5.egg" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/win32" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/win32/lib" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/pythonwin" />
-        <root url="jar://$USER_HOME$/apps/Anaconda3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
-        <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-613016848" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar!/" />
       </CLASSES>
-      <JAVADOC />
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.7-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.7-javadoc.jar!/" />
+      </JAVADOC>
       <SOURCES>
-        <root url="file://$USER_HOME$/apps/Anaconda3/DLLs" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib" />
-        <root url="file://$USER_HOME$/apps/Anaconda3" />
-        <root url="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/Sphinx-1.5.1-py3.5.egg" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/win32" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/win32/lib" />
-        <root url="file://$USER_HOME$/apps/Anaconda3/Lib/site-packages/pythonwin" />
-        <root url="jar://$USER_HOME$/apps/Anaconda3/Lib/site-packages/setuptools-27.2.0-py3.5.egg!/" />
-        <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-613016848" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.7-sources.jar!/" />
       </SOURCES>
     </library>
   </component>
