@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\Apps\msys64\usr\bin\bash.exe" />
+  </component>
+</application>
