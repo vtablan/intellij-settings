@@ -1,25 +1,67 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5.2+ (/usr/bin/python3) interpreter library">
+    <library name="Python 3.5.3 virtualenv at ~/apps/tensorflow interpreter library">
       <CLASSES>
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/lib-dynload" />
         <root url="file:///usr/lib/python3.5" />
         <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/site-packages" />
+        <root url="file:///usr/lib/python3.5/site-packages" />
         <root url="file:///usr/local/lib/python3.5/dist-packages" />
         <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-2066100795" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-32623026" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/lib-dynload" />
         <root url="file:///usr/lib/python3.5" />
         <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
-        <root url="file:///usr/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/apps/tensorflow/lib/python3.5/site-packages" />
+        <root url="file:///usr/lib/python3.5/site-packages" />
         <root url="file:///usr/local/lib/python3.5/dist-packages" />
         <root url="file:///usr/lib/python3/dist-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2016.3/system/python_stubs/-2066100795" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-32623026" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.11.11" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.11.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.11.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.11.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.11-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.11.11-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.11.11-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.11.11-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
     </library>
   </component>
 </application>
