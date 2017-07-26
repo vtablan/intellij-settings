@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.5.2 (C:\Users\v.tablan\apps\Anaconda3\python.exe) interpreter library">
+    <library name="Python 3.5.3 (C:\Users\v.tablan\apps\Anaconda3\envs\tensorflow\python.exe) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/apps/Anaconda3/DLLs" />
         <root url="file://$USER_HOME$/apps/Anaconda3/Lib" />
